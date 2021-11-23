@@ -15,7 +15,7 @@ Landing page developed for a friend using a template created by <a href="https:/
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] 
 -->
-[![MIT License][license-shield]](https://github.com/MarioDoncel/Proffy-NLW02/blob/main/LICENSE)
+[![MIT License][license-shield]](https://github.com/MarioDoncel/MatheusDelivery/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/marioadoncel/)
 
 
