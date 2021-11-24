@@ -51,8 +51,7 @@ Landing page developed for a friend using a template created by <a href="https:/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This responsive application connects teachers and students providing contact through whatsapp. As a teacher you can register informing your course and your
-available time. As a student you can search the availability of teachers by subject and/or desired day of week and/or time.
+A responsive landing page created for a friend who needed promote his delivery services.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
